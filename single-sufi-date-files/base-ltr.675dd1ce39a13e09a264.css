@@ -937,7 +937,7 @@ input {
   outline: 0;
   border: 0 solid transparent;
   border-radius: 0;
-  background: #ee2c82;
+  background: #7660ab;
   color: #fff;
   text-decoration: none;
   font-weight: 600;
@@ -954,8 +954,8 @@ input {
   -webkit-font-smoothing: antialiased;
 }
 .button:hover {
-  background: #fad7e0;
-  color: #ee2c82;
+  background: #d7bfeb;
+    color: #7660ab;
 }
 .button__inner {
   display: -webkit-flex;
@@ -1004,14 +1004,14 @@ input {
   color: #333;
 }
 .button--white {
-  border: 2px solid #ee2c82;
+  border: 2px solid #7660ab;
   background: #fff;
-  color: #ee2c82;
+  color: #7660ab;
 }
 .button--black,
 .button--white:hover {
-  background: #fad7e0;
-  color: #ee2c82;
+  background: #d7bfeb;
+    color: #7660ab;
 }
 .button--black {
   color: #fff;
@@ -2077,7 +2077,7 @@ a {
   justify-content: center;
   width: 100%;
   height: calc(100vh - 64px);
-  background-color: #642d91;
+  background-color: #8B6E9E;
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3749,7 +3749,7 @@ a {
     left: 0;
     -webkit-flex-direction: column;
     flex-direction: column;
-    background: #d7eeee;
+    background: #D9D7F0;
     transition: 0.2s transform cubic-bezier(0.75, 0.25, 0.25, 0.75);
     transition: 0.2s transform cubic-bezier(0.75, 0.25, 0.25, 0.75),
       0.2s -webkit-transform cubic-bezier(0.75, 0.25, 0.25, 0.75);
@@ -4935,7 +4935,7 @@ a {
 }
 
 .slide-section__img {
-  background-image: url("https://pd1eu.bumbcdn.com/ssc/static-eu.bumble.com/s4/files/e/2.1.mgfBZES6-elQXZ2rKcYFyYFjSaTHbrQohp3QGrB8K6u0rOZtRlih8huDlDxUK76-6yf8jArxeppypVlb6mt4zw/");
+  background-image: url("../image/istockphoto-1179759575-170667a.jpg");
   position: relative;
   width: 100%;
   max-width: 1376px;
