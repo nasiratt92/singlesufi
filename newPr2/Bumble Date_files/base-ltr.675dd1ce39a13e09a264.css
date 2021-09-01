@@ -1004,15 +1004,15 @@ input {
   color: #333;
 }
 .button--white {
-  border: 2px solid #ee2c82;
-  background: #fff;
-  color: #ee2c82;
+  border: 2px solid #7660ab;
+    background: #fff;
+    color: #7660ab;
 }
-.button--black,
+/* .button--black,
 .button--white:hover {
   background: #fad7e0;
   color: #ee2c82;
-}
+} */
 .button--black {
   color: #fff;
 }
@@ -3748,7 +3748,7 @@ a {
     left: 0;
     -webkit-flex-direction: column;
     flex-direction: column;
-    background: #d7eeee;
+    background: #D9D7F0;
     transition: 0.2s transform cubic-bezier(0.75, 0.25, 0.25, 0.75);
     transition: 0.2s transform cubic-bezier(0.75, 0.25, 0.25, 0.75),
       0.2s -webkit-transform cubic-bezier(0.75, 0.25, 0.25, 0.75);

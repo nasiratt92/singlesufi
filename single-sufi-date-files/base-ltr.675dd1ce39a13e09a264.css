@@ -1008,11 +1008,11 @@ input {
   background: #fff;
   color: #7660ab;
 }
-.button--black,
+/* .button--black,
 .button--white:hover {
   background: #d7bfeb;
-    color: #7660ab;
-}
+  color: #7660ab;
+} */
 .button--black {
   color: #fff;
 }
@@ -2945,6 +2945,7 @@ a {
   min-height: 200px;
 }
 .features__item-title {
+  opacity: 0.8;
   position: absolute;
   bottom: 64px;
   left: 0;
