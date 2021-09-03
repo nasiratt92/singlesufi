@@ -1650,7 +1650,6 @@ a {
   .header-bar__navigation-inner {
     max-width: 1376px;
     width: 100%;
-    margin: 0 auto;
   }
 }
 .header-bar__hero-block {

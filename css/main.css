@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .menu {
+      z-index: 999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    list-style: none;
+    min-height: 80px;
+    background: rgba(237, 218, 250,0.7);
+  }
+  .menu > li {
+    display: inline-block;
+  }
+  .menu > li > a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+  }
+  .menu > li > a:hover {
+    background-color: rgba(97, 45, 45, 0.9);
+  }
+  .menu > li > a.active {
+    color: tomato;
+    text-shadow: 0 0 3px black;
+  }
+  
+  [id*=section-] {
+    padding: 79px 0;
+    /* color: white;
+    background-image: linear-gradient(to bottom, #2ecc71 0%, #3498db 100%); */
+  }
+  [id*=section-]:nth-child(odd) {
+    /* background-image: linear-gradient(to bottom, #e67e22 0%, #e74c3c 100%); */
+  }
+  .singlesufi-video video {
+      width: 100%;
+  }
+  .footer {
+    height: 150px;
+  }
+  .social-links__link img {
+      width: 100%;
+      max-width: 30px;
+  }
+  .section-title {
+      margin-bottom: 13px;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      font-family: "Crimson Text", Georgia, Times, sans-serif;
+      color: rgb(31, 2, 63);
+  }
